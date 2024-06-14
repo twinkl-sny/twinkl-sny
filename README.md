@@ -1,4 +1,4 @@
-# Another developer works for Twinkl Digital Publisher
+# Another developer works for Twinkl to help those who teach
 
 - 👋 Hi, I’m sny.
 - 🛑 It is all!

@@ -1,4 +1,6 @@
-- 👋 Hi, I’m sny
+# Another developer works for Twinkl Digital Publisher
+
+- 👋 Hi, I’m sny.
 - 🛑 It is all!
 
 <!---
